@@ -10,6 +10,7 @@ import {
   eventStartAddNew,
   eventStartUpdate,
 } from "../../actions/event";
+
 import Alert from "../ui/Alert";
 
 Modal.setAppElement("#root");
